@@ -1,0 +1,27 @@
+Marks : 100
+Free to use VScode/Visual Studio
+Renuka Bari:
+File handling insert Employee Record,search employee record - id,name,age
+apply proper exception handling
+duration - 70 minutes(approx)
+ 
+Pratik Sawarkar:
+Params, Interface, Abstract class (all 3 programs in single library cosuming from console)
+ 
+Om Aute:
+Complete curd operations on list of generic type(Employee...create library for repository)..accessing from console
+ 
+Rutuja Varpe:
+File Operation(Insert record,fetch the record,file _ productId,ProductName,ProductPrice)
+proper Exception handling
+ 
+Pranav Kardile:
+File Operation (Insert, update,delete,Fetch all the supplier records(id,name,phone no))
+
+Remaining topics:
+Ref/Out
+Operator Overloading
+Type casting
+Boxing /unboxing(major topics)
+Annonymous
+**indexer(Enhancement of properties)
